@@ -14,6 +14,8 @@ const findSum = (a, b) => {
 const sum=(a,b)=>a+b;
 sayHello("ASHISH ANAND");
 sayHi("Aditya Anand");
-console.log("sum=",findSum(5,6));
-console.log("sum=",sum(4,5));
+console.log("sum =",findSum(5,6));
+console.log("sum =",findSum(15,13));
+console.log("sum =",sum(4,5));
+console.log("sum =",sum(10,12));
 
